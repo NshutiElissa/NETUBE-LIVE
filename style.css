@@ -1,0 +1,168 @@
+.head{
+    width: 100%;
+    height: 50px;
+    background-color: #0d6efd;
+    display: flex;
+   
+}
+
+h2{
+    background-image: linear-gradient(yellow,red);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 50px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.search{
+    margin-left: 350px; 
+    margin-top: 30px;
+   
+}
+
+#input{
+    width: 300px;
+    height: 20px;
+}
+
+video{
+    width: 500px;
+    height: 500px;
+}
+
+.list{
+    width: 150px;
+    height: 250px;
+    margin-left:20px;
+    border-radius: 20px;
+    margin: 20px;
+
+}
+
+li{
+    list-style: none;
+    margin-top: 8px;
+    margin-left: 10px;
+    font-size: 15px;
+
+}
+
+ul{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+
+#input2{
+    margin-top: 20px;
+
+}
+
+.all{
+    display: flex;
+}
+
+.center{
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: white;    
+}
+
+
+img{
+    width: 200px;
+    height: 200px;
+   
+}
+
+.img{
+    width: 200px;
+    height: 250px;
+    background-color: white;
+}
+p{
+    margin-left: 10px;
+}
+
+button{
+    position: absolute;
+    margin-top: -245px;
+    margin-left: 120px;
+    background-color: red;
+    color: white;
+    border: none;
+    width: 80px;
+    height: 25px;
+    border-radius: 5px;
+}
+
+.circle{
+    position: absolute;
+    margin-top: -170px;
+    margin-left: 80px;
+    color: red;
+    border: solid thin black;
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 30px;
+}
+
+.user{
+    margin-left: 340px;
+    border: none;
+    border-radius: 50%;
+    padding: 5px;
+    font-size: 35px;
+    background-color: white;
+    
+    
+}
+img{
+    object-fit: cover   ;
+}
+
+.sub{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.num{
+    position: absolute;
+    margin-top: -5px;
+    border: none;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    padding: 1px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.videopage{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    
+}
+
+p2{
+    color: black;
+}
+
+.pagevid{
+    border-radius: 20px;
+}
+
+.im{
+    width: 30px;
+    height: 40px;
+    border-radius: 50%;
+}
